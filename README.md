@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD Nahid Hassan</h1>
 <h3 align="center">Professional World-Class Web Developer</h3>
-<img align="right" alt="coding"width="400" src="im/tenor.gif >
+<img align="right" alt="coding"width="400" src="im/tenor.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=torbaper123&label=Profile%20views&color=0e75b6&style=flat" alt="torbaper123" /> </p>
 
