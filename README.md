@@ -2,7 +2,7 @@
 <h3 align="center">Professional World-Class Web Developer</h3>
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=torbaper123&label=Profile%20views&color=0e75b6&style=flat" alt="torbaper123" /> </p>
+<p align="left"> <img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" alt="torbaper123" /> </p>
 
 - 🌱 I’m currently learning **diloma 4th year computers science**
 
